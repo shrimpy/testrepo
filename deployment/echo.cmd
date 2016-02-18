@@ -1,2 +1,2 @@
 @echo off
-echo hello from echo.cmd > d:\home\site\wwwwroot\echo.txt
+echo hello world from echo.cmd > "D:\home\site\wwwroot\echo.txt"
